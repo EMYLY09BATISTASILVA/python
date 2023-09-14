@@ -1,0 +1,12 @@
+
+    dados = pd.read.excel('tabelaxlsx')
+
+    minha_coluna = []
+
+    for indice, linha['nome']
+    minha_coluna.append(valor)
+
+    #print(minha_coluna)
+
+    index = int(input(f"digite o numero do índice da lista:\n"))
+    print(minha_coluna[index])
